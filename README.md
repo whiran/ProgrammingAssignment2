@@ -1,6 +1,6 @@
 ## Solution for the Assignment 2 (Week 03)
 
-this will explain objectives of the assignment. The coide cosist of 4 parts
+this will explain objectives of the assignment. The code cosist of 4 parts
 1. code for makeCacheMatrix`
 2. code for `cacheSolve`
 3. code for test both functions
