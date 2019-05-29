@@ -46,7 +46,7 @@ cacheSolve <- function(x, ...) {
   return(inv)
 }
 
-
+# this function use to test both functions mention above 
 testfunc = function(mat){
   ## @mat: an invertible matrix
   
@@ -62,7 +62,7 @@ testfunc = function(mat){
   dur = Sys.time() - start.time
   print(dur)
 }
-# with this test case we could obsever that how caching could help us to speedup the programme 
+# with this test case we could obsever that how caching could help us to speed-up the programme compare to usual
 set.seed(1220202)
 r = rnorm(250000)
 mat1 = matrix(r, nrow=500, ncol=500)
