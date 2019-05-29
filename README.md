@@ -1,3 +1,35 @@
+## Solution for the Assignment 2 (Week 03)
+
+this will explain objectives of the assignment. The coide cosist of 4 parts
+1. code for makeCacheMatrix`
+2. code for `cacheSolve`
+3. code for test both functions
+4. Execute test function with dummy values
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Introduction
 
 This second programming assignment will require you to write an R
